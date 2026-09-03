@@ -2,6 +2,11 @@
 
 ALU web curriculum exercises for TypeScript and Webpack.
 
+This repository contains two separate project tracks:
+
+- `TypeScript/` for the TypeScript exercises
+- `Webpack/` for the Webpack exercises
+
 ## TypeScript
 
 The TypeScript exercises live under `TypeScript/`:
@@ -27,6 +32,11 @@ The Webpack exercises live under `Webpack/`:
 Each task folder contains its own configuration files and entry points.
 
 Install the dependencies inside the task you want to run, then use the build or dev script defined in that task's `package.json`.
+
+For example:
+
+- `TypeScript/task_0` through `TypeScript/task_5` for the TypeScript project
+- `Webpack/task_0` through `Webpack/task_3` for the Webpack project
 
 ## Notes
 
