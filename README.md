@@ -38,6 +38,18 @@ For example:
 - `TypeScript/task_0` through `TypeScript/task_5` for the TypeScript project
 - `Webpack/task_0` through `Webpack/task_3` for the Webpack project
 
+## Build And Run
+
+TypeScript tasks:
+
+- Run `npm run build` inside the task folder to type-check and bundle the exercise.
+- Some tasks also include `npm run start-dev` for local development.
+
+Webpack tasks:
+
+- Run `npm run build` inside the task folder to generate the production bundle.
+- Run `npm run start-dev` in `Webpack/task_3` to launch the development server on port `8564`.
+
 ## Notes
 
 - All task code lives in source files where possible.
