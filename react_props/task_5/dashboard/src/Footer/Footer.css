@@ -1,0 +1,12 @@
+.App-footer {
+  background-color: #171d26;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.App-footer p {
+  margin: 0;
+}
