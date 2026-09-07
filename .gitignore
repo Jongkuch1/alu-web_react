@@ -1,0 +1,7 @@
+node_modules/
+build/
+dist/bundle.js
+dist/bundle.js.map
+dist/*.LICENSE.txt
+.DS_Store
+npm-debug.log*
