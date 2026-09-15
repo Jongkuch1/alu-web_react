@@ -99,6 +99,11 @@ const styles = StyleSheet.create({
     padding: '40px 20px',
   },
   footer: {
+    backgroundColor: '#171d26',
+    color: 'white',
+    padding: '10px',
+    position: 'fixed',
+    bottom: 0,
     width: '100%',
   },
 });
